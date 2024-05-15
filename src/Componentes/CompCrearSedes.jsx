@@ -5,7 +5,7 @@ import { useState } from "react";
 
 // variable para almacenar la conexión
 // const URL = 'http://localhost:5000/api/sedes/'
-const URL = 'https://proyectotalentotech.onrender.com/api/clientes'
+const URL = 'https://proyectotalentotech.onrender.com/api/sedes'
 
 // componente para crear sedes
 const CompCrearSedes = () => {
