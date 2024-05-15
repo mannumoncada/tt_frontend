@@ -6,7 +6,8 @@ import { Link } from "react-router-dom";
 import { useState, useEffect } from "react";
 
 // se alamcena el enlace, despues de haber sido comprobado en Postman
-const URL = ' http://localhost:5000/api/clientes/';
+// const URL = ' http://localhost:5000/api/clientes/';
+const URL = 'https://proyectotalentotech.onrender.com/api/clientes'
 
 // Se crea la función a ejecutar
 const CompMostrarClientes = () => {
